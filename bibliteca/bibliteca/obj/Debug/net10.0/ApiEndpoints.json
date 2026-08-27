@@ -1,0 +1,139 @@
+[
+  {
+    "ContainingType": "biblioteca.Controllers.EmprestimosController",
+    "Method": "GetAll",
+    "RelativePath": "api/emprestimos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "biblioteca.Controllers.EmprestimosController",
+    "Method": "Create",
+    "RelativePath": "api/emprestimos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "biblioteca.Controllers.EmprestimoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "biblioteca.Controllers.EmprestimosController",
+    "Method": "GetById",
+    "RelativePath": "api/emprestimos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "biblioteca.Controllers.EmprestimosController",
+    "Method": "Devolver",
+    "RelativePath": "api/emprestimos/{id}/devolver",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "biblioteca.Controllers.LivrosController",
+    "Method": "GetAll",
+    "RelativePath": "api/livros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "biblioteca.Controllers.LivrosController",
+    "Method": "Create",
+    "RelativePath": "api/livros",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "livro",
+        "Type": "biblioteca.Models.Livro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "biblioteca.Controllers.LivrosController",
+    "Method": "GetById",
+    "RelativePath": "api/livros/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "biblioteca.Controllers.LivrosController",
+    "Method": "Update",
+    "RelativePath": "api/livros/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "livro",
+        "Type": "biblioteca.Models.Livro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "biblioteca.Controllers.LivrosController",
+    "Method": "Delete",
+    "RelativePath": "api/livros/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
