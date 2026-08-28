@@ -3,7 +3,10 @@
     "",
     "\\bibliteca",
     "\\bibliteca\\bibliteca",
-    "\\bibliteca\\bibliteca\\Controllers"
+    "\\bibliteca\\bibliteca\\Controllers",
+    "\\bibliteca\\bibliteca\\obj",
+    "\\bibliteca\\bibliteca\\obj\\Debug"
   ],
+  "SelectedNode": "\\bibliteca\\bibliteca\\obj\\Debug",
   "PreviewInSolutionExplorer": false
 }

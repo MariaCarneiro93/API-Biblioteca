@@ -16,14 +16,12 @@ namespace biblioteca.Repositories
         public async Task<List<Livro>> GetAllAsync()
         {
             return await _context.Livros
-                .Include(l => l.Emprestimos)
                 .ToListAsync();
         }
 
         public async Task<Livro?> GetByIdAsync(Guid id)
         {
             return await _context.Livros
-                .Include(l => l.Emprestimos)
                 .FirstOrDefaultAsync(l => l.Id == id);
         }
 

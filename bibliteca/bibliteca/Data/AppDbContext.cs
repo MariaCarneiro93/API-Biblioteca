@@ -21,13 +21,7 @@ namespace biblioteca.Data
             modelBuilder.Entity<Livro>()
                 .HasIndex(l => l.ISBN)
                 .IsUnique();
-
-            // Relacionamento Livro -> Emprestimos
-            modelBuilder.Entity<Emprestimo>()
-                .HasOne(e => e.Livro)
-                .WithMany(l => l.Emprestimos)
-                .HasForeignKey(e => e.LivroId)
-                .OnDelete(DeleteBehavior.Restrict);
+    
         }
     }
 }

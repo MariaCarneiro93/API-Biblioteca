@@ -146,3 +146,4 @@ C:\Users\54353784862\Desktop\biblioteca\bibliteca\bibliteca\obj\Debug\net10.0\re
 C:\Users\54353784862\Desktop\biblioteca\bibliteca\bibliteca\obj\Debug\net10.0\bibliteca.pdb
 C:\Users\54353784862\Desktop\biblioteca\bibliteca\bibliteca\obj\Debug\net10.0\bibliteca.genruntimeconfig.cache
 C:\Users\54353784862\Desktop\biblioteca\bibliteca\bibliteca\obj\Debug\net10.0\ref\bibliteca.dll
+C:\Users\54353784862\Desktop\biblioteca\bibliteca\bibliteca\obj\Debug\net10.0\bibliteca.sourcelink.json

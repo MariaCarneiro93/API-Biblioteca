@@ -231,49 +231,6 @@
   },
   "components": {
     "schemas": {
-      "Emprestimo": {
-        "required": [
-          "livroId",
-          "nomeUsuario"
-        ],
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "string",
-            "format": "uuid"
-          },
-          "livroId": {
-            "type": "string",
-            "format": "uuid"
-          },
-          "livro": {
-            "oneOf": [
-              {
-                "type": "null"
-              },
-              {
-                "$ref": "#/components/schemas/Livro"
-              }
-            ]
-          },
-          "nomeUsuario": {
-            "maxLength": 100,
-            "minLength": 2,
-            "type": "string"
-          },
-          "dataEmprestimo": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "dataDevolucao": {
-            "type": [
-              "null",
-              "string"
-            ],
-            "format": "date-time"
-          }
-        }
-      },
       "EmprestimoRequest": {
         "type": "object",
         "properties": {
@@ -315,12 +272,6 @@
           },
           "disponivel": {
             "type": "boolean"
-          },
-          "emprestimos": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Emprestimo"
-            }
           }
         }
       }

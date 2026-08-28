@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Migrations\\20260828155435_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bibliteca\\Migrations\\20260828155435_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\bibliteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\bibliteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\migrations\\20260821180519_criacaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\migrations\\20260821180519_criacaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\services\\emprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\repositories\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\repositories\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,28 +59,8 @@
       "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\repositories\\iemprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\repositories\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\repositories\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|c:\\users\\54353784862\\desktop\\biblioteca\\bibliteca\\bibliteca\\bibliteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{432BCE24-C8E6-4F1F-DAF8-0CACE9347577}|bibliteca\\bibliteca.csproj|solutionrelative:bibliteca\\bibliteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,20 +70,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20260821180519_CriacaoInicial.cs",
-              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Migrations\\20260821180519_CriacaoInicial.cs",
-              "RelativeDocumentMoniker": "bibliteca\\Migrations\\20260821180519_CriacaoInicial.cs",
-              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Migrations\\20260821180519_CriacaoInicial.cs",
-              "RelativeToolTip": "bibliteca\\Migrations\\20260821180519_CriacaoInicial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "20260828155435_m2.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Migrations\\20260828155435_m2.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Migrations\\20260828155435_m2.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Migrations\\20260828155435_m2.cs",
+              "RelativeToolTip": "bibliteca\\Migrations\\20260828155435_m2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T18:05:19.816Z",
+              "WhenOpened": "2026-08-28T15:54:36.011Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Models\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Models\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Models\\Emprestimo.cs",
+              "RelativeToolTip": "bibliteca\\Models\\Emprestimo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T16:53:36.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmprestimoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\EmprestimoRepository.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Repositories\\EmprestimoRepository.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\EmprestimoRepository.cs",
+              "RelativeToolTip": "bibliteca\\Repositories\\EmprestimoRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T17:06:01.858Z"
             },
             {
               "$type": "Document",
@@ -89,157 +118,14 @@
               "RelativeDocumentMoniker": "bibliteca\\Controllers\\EmprestimosController.cs",
               "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Controllers\\EmprestimosController.cs",
               "RelativeToolTip": "bibliteca\\Controllers\\EmprestimosController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAuwFoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-21T17:41:59.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Program.cs",
-              "RelativeDocumentMoniker": "bibliteca\\Program.cs",
-              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Program.cs",
-              "RelativeToolTip": "bibliteca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T16:56:30.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LivrosController.cs",
-              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Controllers\\LivrosController.cs",
-              "RelativeDocumentMoniker": "bibliteca\\Controllers\\LivrosController.cs",
-              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Controllers\\LivrosController.cs",
-              "RelativeToolTip": "bibliteca\\Controllers\\LivrosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:39:03.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmprestimoService.cs",
-              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Services\\EmprestimoService.cs",
-              "RelativeDocumentMoniker": "bibliteca\\Services\\EmprestimoService.cs",
-              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Services\\EmprestimoService.cs",
-              "RelativeToolTip": "bibliteca\\Services\\EmprestimoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:10:22.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LivroService.cs",
-              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Services\\LivroService.cs",
-              "RelativeDocumentMoniker": "bibliteca\\Services\\LivroService.cs",
-              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Services\\LivroService.cs",
-              "RelativeToolTip": "bibliteca\\Services\\LivroService.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:09:22.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EmprestimoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\EmprestimoRepository.cs",
-              "RelativeDocumentMoniker": "bibliteca\\Repositories\\EmprestimoRepository.cs",
-              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\EmprestimoRepository.cs",
-              "RelativeToolTip": "bibliteca\\Repositories\\EmprestimoRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA+wCkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:06:01.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IEmprestimoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\IEmprestimoRepository.cs",
-              "RelativeDocumentMoniker": "bibliteca\\Repositories\\IEmprestimoRepository.cs",
-              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\IEmprestimoRepository.cs",
-              "RelativeToolTip": "bibliteca\\Repositories\\IEmprestimoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:05:32.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\LivroRepository.cs",
-              "RelativeDocumentMoniker": "bibliteca\\Repositories\\LivroRepository.cs",
-              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\LivroRepository.cs",
-              "RelativeToolTip": "bibliteca\\Repositories\\LivroRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA+wDUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:03:11.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IlivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\IlivroRepository.cs",
-              "RelativeDocumentMoniker": "bibliteca\\Repositories\\IlivroRepository.cs",
-              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\IlivroRepository.cs",
-              "RelativeToolTip": "bibliteca\\Repositories\\IlivroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T17:01:55.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "bibliteca\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "bibliteca\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T16:55:33.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Emprestimo.cs",
-              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Models\\Emprestimo.cs",
-              "RelativeDocumentMoniker": "bibliteca\\Models\\Emprestimo.cs",
-              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Models\\Emprestimo.cs",
-              "RelativeToolTip": "bibliteca\\Models\\Emprestimo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T16:53:36.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Models\\Livro.cs",
-              "RelativeDocumentMoniker": "bibliteca\\Models\\Livro.cs",
-              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Models\\Livro.cs",
-              "RelativeToolTip": "bibliteca\\Models\\Livro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-21T16:49:58.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "bibliteca.csproj",
               "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\bibliteca.csproj",
               "RelativeDocumentMoniker": "bibliteca\\bibliteca.csproj",
@@ -247,8 +133,128 @@
               "RelativeToolTip": "bibliteca\\bibliteca.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-21T16:46:35.71Z",
+              "WhenOpened": "2026-08-21T16:46:35.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "bibliteca\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA7wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T16:55:33.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Models\\Livro.cs",
+              "RelativeToolTip": "bibliteca\\Models\\Livro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T16:49:58.542Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Repositories\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\LivroRepository.cs",
+              "RelativeToolTip": "bibliteca\\Repositories\\LivroRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T17:03:11.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Services\\LivroService.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Services\\LivroService.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Services\\LivroService.cs",
+              "RelativeToolTip": "bibliteca\\Services\\LivroService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T17:09:22.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmprestimoService.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Services\\EmprestimoService.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Services\\EmprestimoService.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Services\\EmprestimoService.cs",
+              "RelativeToolTip": "bibliteca\\Services\\EmprestimoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T17:10:22.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Program.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Program.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Program.cs",
+              "RelativeToolTip": "bibliteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T16:56:30.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Controllers\\LivrosController.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "bibliteca\\Controllers\\LivrosController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T17:39:03.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmprestimoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\IEmprestimoRepository.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Repositories\\IEmprestimoRepository.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\IEmprestimoRepository.cs",
+              "RelativeToolTip": "bibliteca\\Repositories\\IEmprestimoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T17:05:32.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260821180519_CriacaoInicial.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Migrations\\20260821180519_CriacaoInicial.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Migrations\\20260821180519_CriacaoInicial.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Migrations\\20260821180519_CriacaoInicial.cs",
+              "RelativeToolTip": "bibliteca\\Migrations\\20260821180519_CriacaoInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T18:05:19.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IlivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\IlivroRepository.cs",
+              "RelativeDocumentMoniker": "bibliteca\\Repositories\\IlivroRepository.cs",
+              "ToolTip": "C:\\Users\\54353784862\\Desktop\\biblioteca\\bibliteca\\bibliteca\\Repositories\\IlivroRepository.cs",
+              "RelativeToolTip": "bibliteca\\Repositories\\IlivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T17:01:55.086Z"
             }
           ]
         }

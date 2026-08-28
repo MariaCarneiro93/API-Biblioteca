@@ -20,7 +20,5 @@ namespace biblioteca.Models
 
         public bool Disponivel { get; set; } = true;
 
-        public ICollection<Emprestimo> Emprestimos { get; set; }
-            = new List<Emprestimo>();
     }
 }
